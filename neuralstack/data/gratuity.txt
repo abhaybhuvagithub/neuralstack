@@ -1,0 +1,16 @@
+Gratuity under the Payment of Gratuity Act, 1972
+
+Gratuity is a statutory benefit payable to an employee who has rendered
+continuous service of at least five years, on resignation, retirement, death,
+or disablement. For employees covered by the Act, gratuity is calculated as:
+
+    gratuity = last_drawn_monthly_salary * 15/26 * completed_years_of_service
+
+Here "salary" means basic pay plus dearness allowance. The factor 15/26
+represents 15 days of wages for each completed year, treating a month as 26
+working days. A period of more than six months in the final year is rounded
+up to a full year.
+
+The maximum tax-exempt gratuity limit is 20 lakh rupees. Amounts above the
+applicable limit are taxable in the employee's hands. The five-year continuous
+service condition is waived where service ends due to death or disablement.

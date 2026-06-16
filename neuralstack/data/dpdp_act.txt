@@ -1,0 +1,17 @@
+Digital Personal Data Protection (DPDP) Act, 2023 — payroll relevance
+
+The DPDP Act governs the processing of digital personal data in India. For a
+payroll system, employee records (salary, bank details, identifiers, family
+information) are personal data, and the employer typically acts as a Data
+Fiduciary determining the purpose and means of processing.
+
+Key obligations relevant to payroll:
+
+- Processing must rest on a lawful basis, such as consent or a legitimate use
+  like employment. Notice must describe what data is collected and why.
+- Personal data should be retained only as long as the payroll or statutory
+  purpose requires, then erased unless another law mandates retention.
+- Reasonable security safeguards must protect payroll data, and personal data
+  breaches must be reported to the Data Protection Board and affected persons.
+- Employees, as Data Principals, may request access to and correction of their
+  data, and may withdraw consent where consent is the basis of processing.

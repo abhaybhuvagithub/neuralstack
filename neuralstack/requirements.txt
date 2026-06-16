@@ -1,0 +1,2 @@
+# NeuralStack only needs the Anthropic SDK; retrieval is dependency-free.
+anthropic>=0.39.0
