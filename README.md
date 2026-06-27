@@ -60,3 +60,7 @@ Messages endpoint and sends the required MCP beta header.
 - Token-aware chunking on semantic boundaries.
 - Reranking the top-k before it reaches the model.
 - Streaming responses and per-tool timeouts/retries.
+
+## AI Periodic Table
+https://htmlpreview.github.io/?https://github.com/abhaybhuvagithub/neuralstack/blob/main/ai-periodic-table.html
+
