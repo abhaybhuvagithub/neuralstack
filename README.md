@@ -62,5 +62,5 @@ Messages endpoint and sends the required MCP beta header.
 - Streaming responses and per-tool timeouts/retries.
 
 ## AI Periodic Table
-https://htmlpreview.github.io/?https://github.com/abhaybhuvagithub/neuralstack/blob/main/ai-periodic-table.html
+https://htmlpreview.github.io/?https://github.com/abhaybhuvagithub/neuralstack/blob/main/ai-periodic-table_with_Quiz_OOB.html
 
